@@ -1,0 +1,22 @@
+---
+title: "partner"
+author: "Rohan Mishra"
+date: "1/22/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Partner Name: Rohan Mishra
+Partner Github user: rohmish
+most recent commit: uploaded hw1 rmd, html file, and 2 images.
+Knit hw1: Works perfectly fine. No issues.
+tip: Make a better interface with local machine.
+
+
+
+
